@@ -73,7 +73,7 @@ Add screenshots of:
 * 🏠 MacroSnap home screen
 * 📷 Meal image upload
 * 🤖 AI nutrition response
-* 📱 WhatsApp nutrition summary
+* 📊 Calorie and macronutrient results  
 
 ## 🎯 Project Goal
 
