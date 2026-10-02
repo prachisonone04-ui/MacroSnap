@@ -33,7 +33,7 @@ MacroSnap is an AI-powered nutrition assistant that helps users understand their
 3. Upload a meal image for AI analysis.
 4. MacroSnap analyzes the meal using Gemini AI.
 5. Get estimated calories and macronutrients.
-6. Send the nutrition details to WhatsApp.
+6. Use the AI-generated nutrition guidance to understand your meal.
 
 ## 💻 How to Run Locally
 
@@ -77,7 +77,7 @@ Add screenshots of:
 
 ## 🎯 Project Goal
 
-The goal of MacroSnap is to make nutrition tracking simpler by combining **AI-powered meal analysis, nutrition assistance, and WhatsApp sharing** in one easy-to-use application.
+The goal of MacroSnap is to make nutrition tracking simpler by combining AI-powered meal analysis and nutrition assistance in one easy-to-use application.
 
 ## 👩‍💻 Developer
 
