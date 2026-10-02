@@ -4,6 +4,7 @@ MacroSnap is an AI-powered nutrition assistant that helps users understand their
 
 ## 🚀 Live Demo
 
+👉 **Try MacroSnap:** [prachisonone04-ui-macrosnap-app-vgu55e]
 👉 **Try MacroSnap:** [prachisonone04-ui-macrosnap-app-vgu55e.streamlit.app)]
 
 
