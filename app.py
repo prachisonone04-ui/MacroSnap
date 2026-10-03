@@ -103,21 +103,11 @@ def clean_whatsapp_text(text):
 
 
 def send_whatsapp(to_number, user_name, summary):
-
     try:
-        content_variables = json.dumps(
-            {
-                "1": user_name,
-                "2": clean_whatsapp_text(summary)
-            },
-            ensure_ascii=False
-        )
-
         message = twilio_client.messages.create(
             from_=TWILIO_WHATSAPP_FROM,
             to=f"whatsapp:{to_number}",
-            content_sid=TWILIO_CONTENT_SID,
-            content_variables=content_variables,
+            body=f"Hi {user_name}! 🥗\n\nMacroSnap Nutrition Summary:\n\n{clean_whatsapp_text(summary)}"
         )
 
         return True, message.sid
